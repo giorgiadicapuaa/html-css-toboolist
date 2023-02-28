@@ -27,3 +27,11 @@ h1{
     height: 50px;
     
 }
+
+.nuvoletta{
+    display: inline-block;
+    background-color: blue;
+    border-radius: 20px;
+}
+
+    
