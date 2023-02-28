@@ -1,5 +1,6 @@
 body{
- box-sizing: border-box;
+    background-color: #F5F5F5;
+    box-sizing: border-box;
 }
 
 header{
@@ -14,10 +15,6 @@ h1{
     
 }
 
-main{
-    background-color: #F5F5F5;
-}
-
-.container{
-    background-color: white;
+.button{
+    height: 30px;
 }
