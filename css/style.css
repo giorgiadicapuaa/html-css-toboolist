@@ -19,24 +19,58 @@ h1{
     height: 30px;
    
 }
+#bottoneblu{
+    background-color: rgb(71, 173, 241) ;
+    color: white;
+}
 
 .container1{
     background-color: white;
+    margin: auto;
     margin-top: 30px;
-    width: 500px;
+    width: 800px;
     height: 50px;
+    padding-left: 40px;
+    padding-top: 20px;
     
 }
 
 .nuvoletta{
     display: inline-block;
-    background-color: blue;
+    background-color:  rgb(71, 173, 241);
+    color: white;
     border-radius: 20px;
+    height: 30px;
+    width: 80px;
 }
 
 .container2{
     background-color: white;
+    margin: auto;
     margin-top: 30px;
-    width: 500px;
-    height: 250px;
+    width: 800px;
+    height: 700px;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+#viola{
+    background-color: rgb(156, 114, 228);
+}
+
+#verde.scuro{
+    background-color:rgb(100, 192, 169) ;
+}
+
+#arancio{
+    background-color: rgb(242, 158, 51) ;
+
+}
+
+#rosa{
+    background-color:rgb(216, 99, 161) ;
+}
+
+#verde.chiaro{
+    background-color: rgb(176, 201, 38) ;
 }
