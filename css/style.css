@@ -13,3 +13,11 @@ h1{
     display: inline-block;
     
 }
+
+main{
+    background-color: #F5F5F5;
+}
+
+.container{
+    background-color: white;
+}
