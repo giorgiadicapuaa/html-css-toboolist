@@ -37,18 +37,24 @@ h1{
     height: 30px;
     border: 0px;
     border-radius: 5px;
+    padding: 5px,10px;
+    border: 1px solid grey;
    
 }
 #bottoneblu{
     background-color: rgb(71, 173, 241) ;
     color: white;
+    border-radius: 5px;
+    padding: 5px,10px;
+    border: none;
     
 }
 
 #bottonebianco{
     background-color: white;
     color: grey;
-    border: 1 px solid grey;
+    border: 1 px solid;
+    padding: 5px,10px;
 }
 
 .container1{
