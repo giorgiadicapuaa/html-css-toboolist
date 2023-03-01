@@ -1,3 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#logo{
+    margin-top: 10px;
+    vertical-align: middle;
+    margin-left: 20px;
+}
+
 body{
     background-color: #F5F5F5;
     box-sizing: border-box;
@@ -12,7 +23,9 @@ h1{
     font-weight: bold;
     color: black;
     display: inline-block;
-    
+    vertical-align: middle;
+   
+   
 }
 
 .button{
